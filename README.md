@@ -11,5 +11,10 @@ this line was code from Github to link to VS code
 
 test test This is branch from VS CODE
 
+
 ^can't merge from VS CODE so did pull request from GitHub
+
+
+
+Still cant merge branch from VSCODE
 
